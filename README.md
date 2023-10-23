@@ -2,10 +2,8 @@
 收集优秀文章及实用工具！
 
 + ## 优秀文章
-  - [写给go开发者的gRPC教程(掘金)
-](https://markdown.com.cn "golang|grpc|微服务")
-  - [写给go开发者的gRPC教程(微信)
-](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyMTI4OTY3Mw==&action=getalbum&album_id=2760500493343014914#wechat_redirect)
+  - [写给go开发者的gRPC教程(掘金)](https://juejin.cn/column/7191008828509388860/ "golang|grpc|微服务")
+  - [写给go开发者的gRPC教程(微信)](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyMTI4OTY3Mw==&action=getalbum&album_id=2760500493343014914#wechat_redirect)
 + ## 实用工具
   - [Audacity](https://www.audacityteam.org/ "音频处理")
   - [Blender](https://www.blender.org/ "动画制作")
