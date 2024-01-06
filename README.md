@@ -3,6 +3,7 @@
   - [写给go开发者的gRPC教程(微信)](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyMTI4OTY3Mw==&action=getalbum&album_id=2760500493343014914#wechat_redirect)
   - [Flutter WebRTC 利用 Demo 實作 1對1 視訊通話](https://medium.com/flutter-taipei/flutter-webrtc-%E5%88%A9%E7%94%A8-demo-%E5%AF%A6%E4%BD%9C-1%E5%B0%8D1-%E8%A6%96%E8%A8%8A%E9%80%9A%E8%A9%B1-c33721193971)
   - [SideStore在iPhone安裝第三方APP](https://ivonblog.com/posts/ios-sidestore/)
+  - [golang JWT Token刷新](https://www.sohamkamani.com/golang/jwt-authentication/)
 
 + ## 实用工具
   - [Audacity](https://www.audacityteam.org/ "音频处理")
@@ -26,3 +27,4 @@
 + ## 在线工具
   - [发票生成](https://invoice-generator.com/)
   - [react-icons](https://react-icons.github.io/react-icons/)
+  - [hexed](https://hexed.it/)
