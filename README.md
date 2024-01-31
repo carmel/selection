@@ -29,3 +29,22 @@
   - [react-icons](https://react-icons.github.io/react-icons/)
   - [hexed](https://hexed.it/)
   - [声音素材](https://pixabay.com/sound-effects/)
+
++ ## android 应用
+  - [指南针](./android/Compass_v9.5.4_apkpure.com.apk)
+  - [谷歌拼音](./android/GoogleInput_v2.4.5.164561151-armeabi-v7a.apk)
+  - [调音器](./android/gstrings-free.apk)
+  - [节拍器](./android/metronome.apk)
+  - [islio阅读器](./android/isilo.apk)
+  - [OTG摄像头](./android/OTG_View.apk)
+
++ ## ios 应用
+
+
++ ## windows 应用
+  - [KMS工具](./windows/KMSpico.zip)
+
++ ## linux 应用
+
+
++ ## mac 应用
