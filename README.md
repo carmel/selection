@@ -42,7 +42,7 @@
 
 
 + ## windows 应用
-  - [KMS工具](./windows/KMSpico.zip)
+  - [KMS工具](./windows/KMSpico.rar)
 
 + ## linux 应用
 
