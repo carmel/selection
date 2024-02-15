@@ -29,6 +29,7 @@
   - [react-icons](https://react-icons.github.io/react-icons/)
   - [hexed](https://hexed.it/)
   - [声音素材](https://pixabay.com/sound-effects/)
+  - [iconify](https://icon-sets.iconify.design/)
 
 + ## android 应用
   - [指南针](./android/Compass_v9.5.4_apkpure.com.apk)
