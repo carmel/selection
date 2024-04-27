@@ -46,6 +46,6 @@
   - [KMS工具](./windows/KMSpico.rar)
 
 + ## linux 应用
-
+  - [录屏工具](https://github.com/SeaDve/Kooha)
 
 + ## mac 应用
