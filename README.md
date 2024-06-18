@@ -24,12 +24,16 @@
   - [The Unarchiver](https://theunarchiver.com/mac-archive-utility-pack "文档解压")
   - [appcleaner](https://freemacsoft.net/appcleaner/ "macos 垃圾清理")
 
-+ ## 在线工具
++ ## 线上资源
   - [发票生成](https://invoice-generator.com/)
-  - [react-icons](https://react-icons.github.io/react-icons/)
   - [hexed](https://hexed.it/)
-  - [声音素材](https://pixabay.com/sound-effects/)
-  - [iconify](https://icon-sets.iconify.design/)
+  - 声音
+    + https://pixabay.com/sound-effects
+    + https://react-icons.github.io/react-icons
+  - 图标
+    + https://icon-sets.iconify.design
+  - HTML模板
+    + https://www.designbombs.com/freebies
 
 + ## android 应用
   - [指南针](./android/Compass_v9.5.4_apkpure.com.apk)
