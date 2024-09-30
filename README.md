@@ -34,6 +34,8 @@
     + https://icon-sets.iconify.design
   - HTML模板
     + https://www.designbombs.com/freebies
+  - resume模板
+    + https://www.freesumes.com/professional-resume-templates
 
 + ## android 应用
   - [指南针](./android/Compass_v9.5.4_apkpure.com.apk)
