@@ -12,6 +12,7 @@
   - [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega "VPN")
   - [百度脑图](https://github.com/NaoTu/DesktopNaotu)
   - [Favicon 生成](https://favicon.io)
+  - [App Icon 生成](https://easyappicon.com/)
   - [Faststone](https://www.faststone.org/ "截屏|录屏|图片编辑")
   - [Charles](https://www.charlesproxy.com/ "TCP抓包")
   - [Gas Mask](https://github.com/2ndalpha/gasmask "Host管理")
