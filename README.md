@@ -48,6 +48,7 @@
     + https://www.coolmathgames.com/
     + https://www.worksheetworks.com/
     + https://www.beestar.org/worksheets/
+    + https://www.mathplayground.com/
 
 + ## android 应用
   - [指南针](./android/Compass_v9.5.4_apkpure.com.apk)
