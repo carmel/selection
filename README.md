@@ -38,6 +38,16 @@
     + https://www.designbombs.com/freebies
   - resume模板
     + https://www.freesumes.com/professional-resume-templates
+  - 教育资源
+    + https://www.progressivephonics.com/
+    + https://brilliant.org/
+    + https://zh.khanacademy.org/
+    + https://www.ixl.com/
+    + https://www.splashlearn.com/
+    + https://home.oxfordowl.co.uk/
+    + https://www.coolmathgames.com/
+    + https://www.worksheetworks.com/
+    + https://www.beestar.org/worksheets/
 
 + ## android 应用
   - [指南针](./android/Compass_v9.5.4_apkpure.com.apk)
