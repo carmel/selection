@@ -11,9 +11,6 @@
   - [HandBrake](https://www.handbrake.fr/ "视频裁剪")
   - [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega "VPN")
   - [百度脑图](https://github.com/NaoTu/DesktopNaotu)
-  - [Favicon 生成](https://favicon.io)
-  - [easyappicon](https://easyappicon.com/ "App Icon 生成")
-  - [IconKitchen](https://icon.kitchen "App Icon 生成")
   - [Faststone](https://www.faststone.org/ "截屏|录屏|图片编辑")
   - [Charles](https://www.charlesproxy.com/ "TCP抓包")
   - [Gas Mask](https://github.com/2ndalpha/gasmask "Host管理")
@@ -25,6 +22,15 @@
   - [Hex Fiend](https://hexfiend.com/ "十六进制文档编辑")
   - [The Unarchiver](https://theunarchiver.com/mac-archive-utility-pack "文档解压")
   - [appcleaner](https://freemacsoft.net/appcleaner/ "macos 垃圾清理")
+  - 软件发布相关
+    - Icon生成
+      - [Favicon 生成](https://favicon.io)
+      - [easyappicon](https://easyappicon.com/ "App Icon 生成")
+      - [IconKitchen](https://icon.kitchen "App Icon 生成")
+    - 海报设计
+      - https://www.freepik.com/
+      - https://studio.app-mockup.com/
+      - https://theapplaunchpad.com/
 
 + ## 线上资源
   - [发票生成](https://invoice-generator.com/)
