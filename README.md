@@ -27,6 +27,7 @@
       - [Favicon 生成](https://favicon.io)
       - [easyappicon](https://easyappicon.com/ "App Icon 生成")
       - [IconKitchen](https://icon.kitchen "App Icon 生成")
+      - [appiconmaker](https://appiconmaker.co/ "App Icon 生成")
     - 海报设计
       - https://www.freepik.com/
       - https://studio.app-mockup.com/
