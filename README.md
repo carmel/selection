@@ -25,7 +25,8 @@
   - 软件发布相关
     - Icon生成
       - [Favicon 生成](https://favicon.io)
-      - [easyappicon](https://easyappicon.com/ "App Icon 生成")
+      - [easyappicon v1](https://easyappicon.com/ "App Icon 生成")
+      - [easyappicon v2](https://beta.easyappicon.com/ "App Icon 生成")
       - [IconKitchen](https://icon.kitchen "App Icon 生成")
       - [appiconmaker](https://appiconmaker.co/ "App Icon 生成")
     - 海报设计
