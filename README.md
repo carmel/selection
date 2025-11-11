@@ -33,6 +33,7 @@
       - https://www.freepik.com/
       - https://studio.app-mockup.com/
       - https://theapplaunchpad.com/
+      - https://studio.app-mockup.com/
 
 + ## 线上资源
   - [发票生成](https://invoice-generator.com/)
