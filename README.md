@@ -71,7 +71,8 @@
 
 
 + ## windows 应用
-  - [KMS工具](./windows/KMSpico.rar)
+  - [KMS工具](https://github.com/massgravel/Microsoft-Activation-Scripts)
+  - [Office-Tool](https://github.com/YerongAI/Office-Tool)
 
 + ## linux 应用
   - [录屏工具](https://github.com/SeaDve/Kooha)
